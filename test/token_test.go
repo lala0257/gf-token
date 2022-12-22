@@ -1,11 +1,11 @@
 package test
 
 import (
-	"gf-token/gftoken"
 	"github.com/gogf/gf/v2/crypto/gmd5"
 	"github.com/gogf/gf/v2/database/gredis"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
+	"github.com/lala0257/gf-token/gftoken"
 	"testing"
 )
 

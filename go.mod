@@ -1,4 +1,4 @@
-module gf-token
+module github.com/lala0257/gf-token
 
 go 1.19
 
